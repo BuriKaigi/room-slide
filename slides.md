@@ -111,13 +111,13 @@ class: text-center
   <div class="justify-self-end">Room Buri (DXセンター1F)</div>
   <div class="justify-self-start">#burikaigi_b</div>
 
-  <div class="justify-self-end">Room Shiroebi (中央棟2F 教室)</div>
+  <div class="justify-self-end">Room Shiroebi (中央棟2F 207)</div>
   <div class="justify-self-start">#burikaigi_s</div>
 
-  <div class="justify-self-end">Room Hotaruika (中央棟2F 教室)</div>
+  <div class="justify-self-end">Room Hotaruika (中央棟2F 208)</div>
   <div class="justify-self-start">#burikaigi_h</div>
 
-  <div class="justify-self-end">Room Masu (中央棟2F 教室)</div>
+  <div class="justify-self-end">Room Masu (中央棟2F 209)</div>
   <div class="justify-self-start">#burikaigi_m</div>
 </div>
 
