@@ -132,11 +132,11 @@ class: text-center
 <b class="text-2xl text-red-500">⚠️ 注意事項</b>
 
 <ul class="text-left gap-2 mt-8 grid text-xl">
-  <li>教室内での食事は禁止です<br />※ 飲み物は可能です</li>
+  <li>教室内での食事は禁止です（飲み物・お菓子は可）</li>
   <li>ゴミの分別にご協力ください</li>
-  <li>ブリしゃぶ体験には受付時に配布されるリストバンドが必須です<br />紛失しないようご注意ください</li>
+  <li>ブリしゃぶ体験には受付時に配布されるリストバンドおよび引換券が必須です<br />紛失しないようご注意ください</li>
   <li>会場内にWi-Fiはありません<br />各自テザリングなどでご対応をお願いします</li>
-  <li>運営は赤い腕章をつけています<br />何かあればお声がけください</li>
+  <li>運営は赤いストラップをつけています<br />何かあればお声がけください</li>
 </ul>
 
 <img src="/img/logo.png" class="absolute right-2 bottom-2 max-h-[20vh] max-w-[20vw]" />
